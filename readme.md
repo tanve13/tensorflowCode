@@ -9,7 +9,7 @@ The project demonstrates how neural networks can be used to solve different type
 - Regression
 
 ## 📌 Project Overview
-
+ 
 The goal of this repository is to understand and implement Artificial Neural Networks using TensorFlow.
 
 The implementations cover the complete machine learning workflow, including:
