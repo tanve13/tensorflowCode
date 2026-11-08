@@ -2,7 +2,7 @@
  
 This repository contains implementations of Artificial Neural Networks (ANNs) using TensorFlow and Keras.
 
-The project demonstrates how neural networks can be used to solve different types of machine learning problems, including:
+The project demonstrates how neural networks can be used to solve different types of machine learning problems, including: 
 
 - Binary Classification
 - Multiclass Classification
